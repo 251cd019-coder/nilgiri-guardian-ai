@@ -1,0 +1,22 @@
+{
+	"name": "nilgiri-guardian-ai",
+	"private": true,
+	"version": "0.0.0",
+	"type": "module",
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build",
+		"lint": "eslint ."
+	},
+	"dependencies": {
+		"@vitejs/plugin-react": "latest",
+		"lucide-react": "latest",
+		"react": "latest",
+		"react-dom": "latest",
+		"vite": "latest"
+	},
+	"devDependencies": {
+		"tailwindcss": "latest",
+		"@tailwindcss/vite": "latest"
+	}
+}
